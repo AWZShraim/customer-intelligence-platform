@@ -1,0 +1,51 @@
+items,freq
+['RBC Credit Card'],2984
+['RBC Insurance'],2959
+['RBC Line of Credit'],2949
+['TFSA Account'],2935
+['RBC Mortgage'],2924
+['Overdraft Protection'],2905
+['RBC Personal Loan'],2903
+['RBC Mobile Banking'],2896
+['RBC Direct Investing'],2886
+['RBC Savings Account'],2884
+['RRSP Account'],2841
+['RBC Chequing Account'],2827
+['Overdraft Protection' 'RBC Line of Credit'],794
+['RBC Mobile Banking' 'TFSA Account'],789
+['TFSA Account' 'RBC Credit Card'],789
+['RBC Line of Credit' 'RBC Credit Card'],787
+['RBC Direct Investing' 'RBC Mortgage'],785
+['Overdraft Protection' 'RBC Credit Card'],785
+['RBC Direct Investing' 'RBC Credit Card'],784
+['RBC Line of Credit' 'RBC Insurance'],784
+['RBC Mortgage' 'RBC Insurance'],782
+['RBC Personal Loan' 'RBC Mortgage'],782
+['RBC Mobile Banking' 'RBC Credit Card'],782
+['RBC Savings Account' 'RBC Insurance'],782
+['TFSA Account' 'RBC Insurance'],781
+['RBC Direct Investing' 'RBC Insurance'],780
+['TFSA Account' 'RBC Line of Credit'],780
+['RBC Chequing Account' 'RBC Insurance'],779
+['Overdraft Protection' 'RBC Insurance'],778
+['RBC Mortgage' 'RBC Line of Credit'],775
+['RBC Direct Investing' 'RBC Line of Credit'],774
+['RBC Insurance' 'RBC Credit Card'],772
+['RBC Savings Account' 'RBC Credit Card'],771
+['RBC Personal Loan' 'RBC Insurance'],770
+['RBC Chequing Account' 'TFSA Account'],769
+['RBC Mobile Banking' 'RBC Mortgage'],769
+['RRSP Account' 'RBC Insurance'],764
+['RRSP Account' 'RBC Credit Card'],764
+['RBC Direct Investing' 'RBC Personal Loan'],760
+['RRSP Account' 'RBC Direct Investing'],760
+['RBC Savings Account' 'RBC Line of Credit'],760
+['RBC Savings Account' 'RBC Personal Loan'],758
+['RBC Personal Loan' 'Overdraft Protection'],757
+['Overdraft Protection' 'TFSA Account'],757
+['RBC Chequing Account' 'RBC Mobile Banking'],755
+['RBC Personal Loan' 'RBC Line of Credit'],751
+['RBC Savings Account' 'RBC Mobile Banking'],751
+['RBC Mortgage' 'TFSA Account'],750
+['RBC Chequing Account' 'RBC Personal Loan'],749
+['RBC Savings Account' 'TFSA Account'],746
