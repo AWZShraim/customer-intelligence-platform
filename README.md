@@ -6,8 +6,6 @@ PySpark-based machine learning platform for banking product cross-sell optimizat
 
 Developed a scalable analytics solution processing 50,000+ transactions across 10,000+ customer portfolios to identify high-value cross-selling opportunities in retail banking. Achieved 3.2x lift in targeting accuracy with potential $3M+ annual revenue impact.
 
-![Banking Analytics Dashboard](banking_dashboard.png)
-
 ## 🚀 Key Results
 
 - **200% improvement** in marketing conversion rates (2% → 6%)
